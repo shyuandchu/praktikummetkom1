@@ -1,1 +1,1 @@
-# praktikummetkom1
+# praktikummetkom1 masmas
