@@ -1,6 +1,5 @@
 # Hello, friends! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Miftahul Nur Fadilah. I'am a Undergraduate Geophysics at Gadjah Mada University and i interest to learning Geoscience Programming. So, wish me luck!
-
+My name is Miftahul Nur Fadilah. I'am a Undergraduate Geophysics at Gadjah Mada University and I interest to learning Geoscience Programming. So, wish me luck!
 
 ### About me
 - 📧 How to reach me **miftahulnurfadilah@mail.ugm.ac.id**
